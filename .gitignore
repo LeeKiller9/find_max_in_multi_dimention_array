@@ -1,3 +1,7 @@
+.idea
+out
+find_max_in_multi_dimention_array.iml
+
 # Compiled class file
 *.class
 
